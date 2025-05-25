@@ -1,0 +1,6 @@
+npm i axios
+npm i @reduxjs/toolkit
+npm i react-redux
+npm i -D tailwindcss
+npm i react-router-dom
+npm i react-icons
